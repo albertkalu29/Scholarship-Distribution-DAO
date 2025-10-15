@@ -19,6 +19,10 @@ epoch = 3.1
 path = 'contracts/performance-analytics.clar'
 clarity_version = 3
 epoch = 3.1
+[contracts.reputation-voting]
+path = 'contracts/reputation-voting.clar'
+clarity_version = 3
+epoch = 3.1
 [repl.analysis]
 passes = ['check_checker']
 
